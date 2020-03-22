@@ -1,0 +1,2 @@
+rootProject.name='Namaste World'
+include ':app'
